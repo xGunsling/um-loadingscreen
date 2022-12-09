@@ -1,7 +1,7 @@
                                   🌶️  Patchnote 1.0. 🌶️ 
             
-- Ajout mapping jeu à la plage
-- Ajout des auto temponneuses
-- Changement du HUD (Customisable)
-- Retrait de l'ancien speedometer
-- Désactivation de l'HUD de base
+- Retrait de l'affichage de l'argent liquide
+- Retrait de la barre de vie et d'armure sous la minimap
+- Correctif Inventaire
+- Produits alimentaires des boutiques rendus consommable
+- Mise à jour de la traduction lors de la consommation des produits alimentaires
